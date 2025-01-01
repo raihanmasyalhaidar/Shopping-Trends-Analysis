@@ -63,9 +63,9 @@ The dataset offers a comprehensive view of consumer shopping trends, aiming to u
 
 #### 5. Recommendations
 * Provide actionable suggestions based on the analysis, such as:
-** Optimizing inventory based on seasonal demand.
-** Offering targeted promotions to customer segments.
-** Improving shipping and payment options to align with customer preferences.
+- Optimizing inventory based on seasonal demand.
+- Offering targeted promotions to customer segments.
+- Improving shipping and payment options to align with customer preferences.
 
 #### 6. Tools Used
 * Programming Language : Python (Jupyter Notebook)
