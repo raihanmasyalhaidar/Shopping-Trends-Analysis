@@ -67,3 +67,9 @@ The dataset offers a comprehensive view of consumer shopping trends, aiming to u
 #### 6. Tools Used
 * Programming Language : Python (Jupyter Notebook)
 * Libraries : Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+
+#### 7. Summary 
+Based on the data analysis, the prediction of Subscription Status (Yes/No) was performed using four models, with Logistic Regression showing the highest accuracy (86.41%), followed by Random Forest (84.10%). The most influential features on customers' decision to subscribe are Discount Applied and Promo Code Used, followed by Purchase Amount and Previous Purchases. Promotional factors and purchasing patterns proved to be more significant than other features such as product category or season. For the business strategy, focusing on incentives like discounts and promo codes, as well as targeting customers with previous purchase history or high transaction values, can increase subscription rates. Logistic Regression is recommended for practical prediction, while Random Forest is suitable for in-depth analysis of feature importance. This strategy is expected to effectively drive customer subscription decisions.
+
+#### 8. Strategic Recomendation
+Based on the analysis, the business steps that can be taken include optimizing promotions by offering attractive discounts and promo codes to encourage customers to subscribe, and focusing on customers who have made previous purchases as they have a higher potential for subscription. Additionally, target high transaction value customers, as they have a higher likelihood of subscribing, while ignoring less significant features such as category, size, and season. The optimal strategy involves using Machine Learning, with Logistic Regression for practical prediction and Random Forest for interpreting feature importance. Customer segmentation based on purchase history and discount usage can help design specific campaigns offering immediate benefits to boost subscriptions.
