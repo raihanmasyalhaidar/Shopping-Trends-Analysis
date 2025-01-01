@@ -62,10 +62,7 @@ The dataset offers a comprehensive view of consumer shopping trends, aiming to u
 * The modeling algorithms used are: Random Forest, Logistic Regression, SVM (Support Vector Machine), KNN (K-Nearest Neighbors)
 
 #### 5. Recommendations
-* Provide actionable suggestions based on the analysis, such as:
-- Optimizing inventory based on seasonal demand.
-- Offering targeted promotions to customer segments.
-- Improving shipping and payment options to align with customer preferences.
+* Provide actionable suggestions based on the analysis, such as: optimizing inventory based on seasonal demand, offering targeted promotions to customer segments, and improving shipping and payment options to align with customer preferences
 
 #### 6. Tools Used
 * Programming Language : Python (Jupyter Notebook)
