@@ -65,7 +65,7 @@ The dataset offers a comprehensive view of consumer shopping trends, aiming to u
 * Provide actionable suggestions based on the analysis, such as: optimizing inventory based on seasonal demand, offering targeted promotions to customer segments, and improving shipping and payment options to align with customer preferences
 
 #### 6. Tools Used
-* Programming Language : Python (Jupyter Notebook)
+* Programming Language : Python
 * Libraries : Pandas, Numpy, Matplotlib, Seaborn, Sklearn
 
 #### 7. Summary 
